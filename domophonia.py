@@ -7,8 +7,8 @@ from telebot.apihelper import send_message
 from telebot.types import InlineKeyboardMarkup, ReplyKeyboardMarkup
 
 from requ import *
-
-token="7162249200:AAEDzqbzwiHbOufNtFkERk4ot304dX1F_cM"
+# Testing token; belongs to @@domophonia_testing_bot
+token="8195581073:AAGk2hThSqGewV-6BtbPsRiD3i-l5M_Kz3M"
 bot=telebot.TeleBot(token)
 
 class Authorization():
